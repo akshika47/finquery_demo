@@ -1,1 +1,1 @@
-# LLM_SQL
+# FinQuery Demo
